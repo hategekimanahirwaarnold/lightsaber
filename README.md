@@ -1,9 +1,10 @@
-# Fireworks
+# Lightsaber
 
 ## Usage
 
-When you click on the screen you will see fireworks like those at the end of new year.
+Move the mouse around the screen, you will see a burning saber around the screen.
 
+This may even result in more beautiful images once you play with the math inside.
 
 Enjoy,
 
